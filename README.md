@@ -47,14 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/736x/01/6e/69/016e695ca8c654062b27b5a72eb77a1c.jpg"  />
 </div>
